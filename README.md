@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋👋
 - 🌱 I’m currently learning Git and Multimedia art.
 - 👯 I’m looking to collaborate on Multimedia art development.
 - - Caba, Buenos Aires, Argentina.
